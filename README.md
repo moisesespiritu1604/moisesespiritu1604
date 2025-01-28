@@ -29,7 +29,7 @@ Passionate about Web development, always looking for challenges that drive my pr
 ### 🌍 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/moises-espiritu-rojas-7203b7239/)
 - [Portfolio](https://portafolio-moises-espiritu.netlify.app/)
-- [GitHub](https://github.com/moisesespiritu1604)
+- Email: [**moises.espiritu.r@uni.pe**](mailto:moises.espiritu.r@uni.pe)
 
 ---
 
